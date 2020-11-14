@@ -4,7 +4,7 @@
         <v-list-item>
             <v-list-item-content>
                 <v-list-item-title class="title">
-                    Christian Vernando
+                   Christian Vernando
                 </v-list-item-title>
                 <v-list-item-subtitle>
                     180709881
@@ -40,6 +40,7 @@
             items: [
                 { title: "Dashboard", to: "/" },
                 { title: "GD", to: "/gd" },
+                { title: "UGD", to: "/ugd" },
                 ],
             };
         },
